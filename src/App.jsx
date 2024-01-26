@@ -7,6 +7,11 @@ function App() {
     <>
       <header>
         <h1>Array function magic</h1>
+        <button>All</button>
+        <button>Women</button>
+        <button>Men</button>
+        <button>By name</button>
+        <button>By age</button>
       </header>
       <main>
         <section className="card-list">
